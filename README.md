@@ -1,6 +1,6 @@
-# SAB
+# StartAllBack activator (for educational purpose only)
 
-## How to unlock StartAllBack :)))
+## How to use
 
 1. Download the `SAB.ps1` script to your computer.
 
